@@ -10,6 +10,12 @@ public class cat {
         this.name = name;
         this.age = age;
         this.color = color;
+        this.age = age;
+        this.color = color;
+
+        this.color = color;
+        this.age = age;
+        this.color = color;
     }
 
     public void meow(){

@@ -25,5 +25,8 @@ public class cat {
         weight -= 2 -;
     }
         public void eat(){
+
+
+            System.out.println("Привет");
     }
 }
